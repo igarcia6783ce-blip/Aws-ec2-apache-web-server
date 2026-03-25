@@ -20,7 +20,7 @@ http://18.221.121.103
 - Apache (httpd)
 
 ## 📸 Screenshots
-(Add screenshots here later)
+
 
 ## 📚 What I Learned
 - How to deploy a web server on AWS EC2
