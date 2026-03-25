@@ -24,6 +24,7 @@ https://raw.githubusercontent.com/igarcia6783ce-blip/aws-lab-04-ec2-apache-webse
 
 https://raw.githubusercontent.com/igarcia6783ce-blip/aws-lab-04-ec2-apache-webserver/refs/heads/main/IMG_20260325_032827.jpg
 
+https://raw.githubusercontent.com/igarcia6783ce-blip/aws-lab-04-ec2-apache-webserver/refs/heads/main/IMG_20260325_032849.jpg
 
 
 ## 📚 What I Learned
