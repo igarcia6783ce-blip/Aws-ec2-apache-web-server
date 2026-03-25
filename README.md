@@ -22,6 +22,8 @@ http://18.221.121.103
 ## 📸 Screenshots
 https://raw.githubusercontent.com/igarcia6783ce-blip/aws-lab-04-ec2-apache-webserver/refs/heads/main/IMG_20260325_032819.jpg
 
+https://raw.githubusercontent.com/igarcia6783ce-blip/aws-lab-04-ec2-apache-webserver/refs/heads/main/IMG_20260325_032827.jpg
+
 
 
 ## 📚 What I Learned
