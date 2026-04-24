@@ -1,7 +1,8 @@
 # AWS EC2 Apache Web Server Project
 
 ## 🚀 Overview
-Deployed a live web server using AWS EC2 and Apache.
+
+This project demonstrates how to deploy and configure a publicly accessible Apache web server on an AWS EC2 instance, including security group configuration and Linux server setup.
 
 ## 🛠️ What I Did
 - Launched an EC2 instance (Amazon Linux)
