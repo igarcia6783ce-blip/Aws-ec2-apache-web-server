@@ -15,9 +15,9 @@ This project demonstrates how to deploy and configure a publicly accessible Apac
 ## 🌐 Live Demo
 http://18.221.121.103
 
-## 💻 Tech Used
+## Technologies Used
 - AWS EC2
-- Linux
+- Linux (Amazon Linux)
 - Apache (httpd)
 
 ## 📸 Screenshots
