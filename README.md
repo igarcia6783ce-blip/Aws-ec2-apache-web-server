@@ -14,6 +14,8 @@ This project demonstrates how to deploy and configure a publicly accessible Apac
 
 ## 🌐 Live Demo
 http://18.221.121.103
+Note: The EC2 instance may be stopped to avoid charges,
+so the live demo may not always be accessible.
 
 ## Technologies Used
 - AWS EC2
